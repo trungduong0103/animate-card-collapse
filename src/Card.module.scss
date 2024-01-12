@@ -1,0 +1,15 @@
+.card {
+  width: 250px;
+  padding: 16px;
+  border: 1px solid black;
+  text-align: left;
+  border-radius: 4px;
+  -moz-transition: height .5s;
+  -ms-transition: height .5s;
+  -o-transition: height .5s;
+  -webkit-transition: height .5s;
+  transition: height .5s;
+
+  overflow: hidden;
+}
+
